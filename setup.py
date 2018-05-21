@@ -7,9 +7,9 @@ install_requires = [
 ]
 
 setup(
-    name='manipulate_text',
-    version=1,
-    url='',
+    name='text_operations',
+    version='0',
+    url='https://github.com/adityavarshney/TextManipulatorPackage',
     author='Aditya Varshney',
     author_email='aditya@letslinc.com',
     description='A set of functions that piggyback off nltk to parse text.',
