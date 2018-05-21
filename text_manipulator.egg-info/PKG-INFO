@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: text-manipulator
+Version: 1
+Summary: A set of functions that piggyback off nltk to parse text.
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: A set of functions that piggyback off nltk to parse text.
+Platform: UNKNOWN
+Classifier: Copyright :: Linc Global Inc
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6

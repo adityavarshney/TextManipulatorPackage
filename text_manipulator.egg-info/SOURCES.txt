@@ -1,0 +1,5 @@
+text_manipulator.egg-info/PKG-INFO
+text_manipulator.egg-info/SOURCES.txt
+text_manipulator.egg-info/dependency_links.txt
+text_manipulator.egg-info/requires.txt
+text_manipulator.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+manipulate_text.egg-info/PKG-INFO
+manipulate_text.egg-info/SOURCES.txt
+manipulate_text.egg-info/dependency_links.txt
+manipulate_text.egg-info/requires.txt
+manipulate_text.egg-info/top_level.txt
