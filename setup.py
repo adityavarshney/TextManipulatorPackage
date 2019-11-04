@@ -3,7 +3,7 @@ import os
 from setuptools import setup, find_packages
 
 install_requires = [
-    'nltk==3.2.5'
+    'nltk==3.4.5'
 ]
 
 setup(
